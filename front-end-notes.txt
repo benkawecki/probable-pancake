@@ -1,0 +1,9 @@
+There are two well recognized methods to creating a front end for Django applications. The Pros and Cons are discussed here.
+
+Third Party Django Library: Less flexibility, much easier to setup and maintain 
+  Django Compressor 
+  Django Pipeline
+  
+Front End Build System: More flexibility, use of node.js, much greater overhead
+  Gulp
+  Webpack
